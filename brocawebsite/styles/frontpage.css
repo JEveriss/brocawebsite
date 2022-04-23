@@ -1,0 +1,8 @@
+.front-page {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  height:90vh;
+  /* top:-10px; */
+}
+

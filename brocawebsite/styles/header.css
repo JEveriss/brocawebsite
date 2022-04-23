@@ -1,0 +1,17 @@
+.header-container {
+  background-color: #fffef9;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+.navbar>a{
+    padding-bottom: .15rem;
+}
+.bun {
+  width: 100px;
+}
